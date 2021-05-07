@@ -1,0 +1,110 @@
+#Einführung
+Herzlich Willkommen zu meinem Textadventure.
+In dieser Geschichte kannst du deine eigenen Entscheidungen treffen,
+welche den Ablauf der Geschichte beeinflussen.
+
+
+
+
+
+#Text
+"Die Anomalie"
+Du wachst auf und oeffnest langsam deine Augen.
+Um dich herum ist es Dunkel, doch du siehst einen kleinen Lichtschimmer.
+Du liegst am Boden eines mit Kerzenlicht beleuchteten Raumes.
+Bleibst du Liegen oder stehst du auf?
+Du bleibst liegen und schlaefst nach ein paar Minuten ein.
+Zeit vergeht...
+Stunden, Tage, Wochen, Monate, Jahre...
+Du wachst nie wieder auf!
+Du stehst auf und siehst dich um.
+Am anderen Ende des Raumes siehst du eine Tür, die einen Spalt weit offen steht.
+Du gehst zur Tuer, doch bevor du sie oeffnest, hörst du einen Schrei.
+Was tust du?
+Du oeffnest die Tür und siehst eine selsame Kreatur.
+Nach wenigen Augenblicken ist es dunkel.
+Du bist Tod.
+Du schliesst die Tuer und wartest.
+Du hast überlebt!
+Du wartest ein paar Minuten und oeffnest langsam die Tür.
+Du gehst wenige Schritte und schaust dich um.
+Du siehst eine alte Holztreppe und gehst darauf zu.
+Hinter dir hoerst du einen lauten Knall.
+Was tust du als Naechstes?
+Du sprintest auf die Holztreppe zu und rennst diese hoch.
+Doch leider ist die Holztreppe sehr morsch und die Holzplanke, auf der du dich gerade befindest, gibt nach.
+Du faellst nach unten und verletzt dich schwer.
+Rufst du um Hilfe oder bleibst du liegen?
+Du gehst langsam und vorsichtig die Holztreppe hoch.
+Oben angekommen siehst du einen wunderschoenen Garten mit verschiedenen Pflanzen und Blumen.
+Du bleibst stehen und drehst dich um.
+Die Dunkelheit holt dich ein und hüllt dich in vollkommene Finsternis.
+Du strengst dich an, irgendwas zu erkennen und siehst einen kleinen Funken.
+Einen Funken der Hoffnung?
+Gehst du darauf zu oder laeufst du weg?
+Du rufst um Hilfe, doch es kommt niemand.
+Du verblutest.
+Du bleibst liegen und verblutest.
+Du gehst darauf zu und faengst den Funken ein.
+Du hast die Hoffnung nicht aufgegeben.
+Du gewinnst!
+Du laeufst weg und gibst die Hoffnung auf.
+Du stirbst.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Fragen
+1 = liegenbleiben, 2 = Aufstehen
+1 = Du oeffnest die Tuer, 2 = Du schliesst die Tuer, 3 = Du wartest
+1 = Du sprintest die Holztreppe hoch, 2 = Du bleibst ruhig und gehst vorsichtig die Holztreppe hoch, 3 = Du bleibst stehen
+1 = Du rufst um Hilfe, 2 = Du bleibst liegen
+1 = Du gehst darauf zu, 2 = Du laeufst weg
+
+
+
+
+
